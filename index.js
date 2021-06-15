@@ -174,9 +174,15 @@ Use the scoreboard function below to do the following:
 ]  
   */
 
-function scoreboard(/* CODE HERE */) {
-  /* CODE HERE */
-}
+// function scoreboard(inningScore, inning, numInnings) {
+//   // let arrayScores[];
+//   let homeScore = 0;
+//   let awayScore = 0;
+//   for (let i = 0; i < numInnings; i++){
+//     inning += 1;
+//     arrayScores.push(`Inning`);
+//   }
+// }
 
 
 
